@@ -6,7 +6,7 @@ See the [JavaScript language guide for CircleCI here](https://circleci.com/docs/
 
 ## Quickstart
 
-# Hello World
+# save_hello_world_output
 
 ```
   npm install -g mern-cli
